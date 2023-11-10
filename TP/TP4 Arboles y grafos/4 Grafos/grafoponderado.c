@@ -1,4 +1,4 @@
-/*Escribe en lenguaje c, la declaración de un tipo de dato tGrafoPonderado para un grafo ponderado de
+	/*Escribe en lenguaje c, la declaración de un tipo de dato tGrafoPonderado para un grafo ponderado de
 hasta 10 vértices, donde el peso corresponde a kg. Utilizar la implementación de grafos con arrays.
 Además, escribir las funciones para:*/
 #include <stdio.h>

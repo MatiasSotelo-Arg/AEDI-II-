@@ -99,5 +99,6 @@ void mostrarMatrizDeAdyacencia(tGrafo pGrafo) {
 			}
 		}
 		printf("\n");
+		
 	}
 }

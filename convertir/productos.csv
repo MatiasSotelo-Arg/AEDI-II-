@@ -1,0 +1,51 @@
+codUniverso, nombrePersonaje, nombreTerrestre, genero, codRol, cantPeliculasAparicion
+1,Superman,Clark Kent,M,H,7
+1,Batman,Bruce Wayne,M,H,9
+1,Wonder Woman,Diana Prince,F,H,4
+1,Black Widow,Natasha Romanoff,F,H,6
+1,Thor,Thor Odinson,M,H,6
+1,Hulk,Bruce Banner,M,H,4
+1,Captain America,Steve Rogers,M,H,6
+1,Black Panther,T'Challa,M,H,3
+1,Doctor Strange,Stephen Strange,M,H,2
+1,Scarlet Witch,Wanda Maximoff,F,H,3
+1,Ant-Man,Scott Lang,M,H,3
+1,Captain Marvel,Carol Danvers,F,H,2
+1,Green Lantern,Hal Jordan,M,H,1
+1,The Flash,Barry Allen,M,H,2
+1,Aquaman,Arthur Curry,M,H,2
+1,Joker,Unknown,M,V,2
+1,Harley Quinn,Harleen Quinzel,F,V,3
+1,Darkseid,Darkseid,M,V,5
+1,Lex Luthor,Lex Luthor,M,V,4
+1,Catwoman,Selina Kyle,F,V,4
+1,Penguin,Oswald Cobblepot,M,V,3
+1,Riddler,Edward Nigma,M,V,3
+1,Two-Face,Harvey Dent,M,V,3
+1,Enigma,Edward Nashton,M,V,2
+1,Killer Croc,Waylon Jones,M,V,2
+1,Mr. Freeze,Victor Fries,M,V,2
+2,Spider-Man,Peter Parker,M,H,5
+2,Iron Man,Tony Stark,M,H,7
+2,Loki,Loki Laufeyson,M,V,4
+2,Joker,Unknown,M,V,2
+2,Harley Quinn,Harleen Quinzel,F,V,3
+2,Thanos,Thanos,M,V,4
+2,Black Widow,Natasha Romanoff,F,H,6
+2,Captain Marvel,Carol Danvers,F,H,2
+2,Thor,Thor Odinson,M,H,6
+2,Hulk,Bruce Banner,M,H,4
+2,Ant-Man,Scott Lang,M,H,3
+2,Wanda Maximoff,Wanda Maximoff,F,H,3
+2,Doctor Strange,Stephen Strange,M,H,2
+2,Green Goblin,Norman Osborn,M,V,3
+2,Venom,Unknown,M,V,3
+2,Black Panther,T'Challa,M,H,3
+2,Deadpool,Wade Wilson,M,V,2
+2,Cyclops,Scott Summers,M,H,2
+2,Jean Grey,Unknown,F,H,2
+2,Magneto,Erik Lehnsher,M,V,2
+
+
+
+
